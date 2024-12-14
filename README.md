@@ -5,7 +5,7 @@
 ## 👋 Hello, I’m Abraham Augustine **DevOps and AWS Cloud Engineer**
 
 ### About Me:
-I have 15 years of IT experience, including 8 years in DevOps and cloud engineering. I specialize in designing, implementing, and managing infrastructure solutions with a focus on automation, CI/CD, and cloud platforms. My goal is to build robust, scalable, and secure systems for high availability and performance.
+I have 15 years of IT experience, including in DevOps and cloud engineering. I specialize in designing, implementing, and managing infrastructure solutions with a focus on automation, CI/CD, and cloud platforms. My goal is to build robust, scalable, and secure systems for high availability and performance.
 
 ### 🛠️ Tools and Technologies:
 
