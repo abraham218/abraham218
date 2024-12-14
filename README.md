@@ -1,8 +1,8 @@
 # 💻 Welcome to My GitHub Profile
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Header Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ntnuTncGj98Fy-Mo_p9rpPKrUA_JSJELkQ&s)
 
-## 👋 Hello, I’m a **DevOps and AWS Cloud Engineer**
+## 👋 Hello, I’m Abraham Augustine **DevOps and AWS Cloud Engineer**
 
 ### About Me:
 I have 15 years of IT experience, including 8 years in DevOps and cloud engineering. I specialize in designing, implementing, and managing infrastructure solutions with a focus on automation, CI/CD, and cloud platforms. My goal is to build robust, scalable, and secure systems for high availability and performance.
@@ -32,19 +32,19 @@ I have 15 years of IT experience, including 8 years in DevOps and cloud engineer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=5&hide=css,html&include_repo=python)
 
 ### 📂 Featured Repositories:
 
-[![Repository Name](https://img.shields.io/badge/Repository-Terraform_Automation-green?style=for-the-badge)](https://github.com/yourusername/repositoryname)
+[![Repository Name](https://img.shields.io/badge/Repository-Terraform_Automation-green?style=for-the-badge)](https://github.com/abraham218?tab=repositories)
 
-[![Repository Name](https://img.shields.io/badge/Repository-Cloud_Infrastructure-blue?style=for-the-badge)](https://github.com/yourusername/repositoryname)
+[![Repository Name](https://img.shields.io/badge/Repository-Cloud_Infrastructure-blue?style=for-the-badge)](https://github.com/abraham218?tab=repositories)
 
 ---
 
 ### 📫 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-augustine-78299376/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ![Footer Image](https://via.placeholder.com/1200x100.png?text=Happy+Coding+!)
