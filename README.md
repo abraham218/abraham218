@@ -5,7 +5,7 @@
 ## 👋 Hello, I’m Abraham Augustine **DevOps and AWS Cloud Engineer**
 
 ### About Me:
-I have 15 years of IT experience, including DevOps and cloud engineering. I specialize in designing, implementing, and managing infrastructure solutions with a focus on automation, CI/CD, and cloud platforms. My goal is to build robust, scalable, and secure systems for high availability and performance.
+I have 15 years of IT experience, including 8 years in DevOps and cloud engineering. I specialize in designing, implementing, and managing infrastructure solutions with a focus on automation, CI/CD, and cloud platforms. My goal is to build robust, scalable, and secure systems for high availability and performance.
 
 ### 🛠️ Tools and Technologies:
 
@@ -28,11 +28,12 @@ I have 15 years of IT experience, including DevOps and cloud engineering. I spec
 #### 🌩️ Cloud Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📊 GitHub Stats:
+### 📊 Most Used Automation Tools:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=5&hide=css,html&include_repo=python)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 📂 Featured Repositories:
 
